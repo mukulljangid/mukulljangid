@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mukulljangid
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning R and improving on problem solving skills.
-- 💞️ I’m looking to collaborate on ...
+<!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me: email me at mukulmdj9070(at)gmail.com
 
 <!---
