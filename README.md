@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mukulljangid
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning R and improving on problem solving skills.
+- 👀 I’m interested in JS Development.
+- 🌱 I’m currently working as a Software Engineer @ripple.
 <!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me: email me at mukulmdj9070(at)gmail.com
 
